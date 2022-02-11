@@ -1,0 +1,18 @@
+{
+    "name": "pure/mvs",
+    "description": "pure mvc",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Pure\\Mvs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dina-Tayel",
+            "email": "dinatayel913@gemail.com"
+        }
+    ],
+    "require": {}
+}
